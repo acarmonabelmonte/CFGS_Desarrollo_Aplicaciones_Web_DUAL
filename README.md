@@ -3,6 +3,6 @@ Prácticas, ejercicios y exámenes realizados durante en el Ciclo Formativo de G
 
 <center>
  
-![IES Francesc de Borja Moll](http://liorna.cat/img/iesborja.png)
+                              ![IES Francesc de Borja Moll](http://liorna.cat/img/iesborja.png)
 
 </center> 
