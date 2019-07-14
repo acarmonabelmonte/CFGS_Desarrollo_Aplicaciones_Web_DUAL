@@ -1,0 +1,31 @@
+{
+  "name": "Examen_DWEC_Marzo",
+  "version": "1.0.0",
+  "description": "Raffle in the JSungle\r =====================\r #### Examen JS client-side DWEC Dual Febrero 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acarmonabelmonte/Examen_DWEC_Marzo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acarmonabelmonte/Examen_DWEC_Marzo/issues"
+  },
+  "homepage": "https://github.com/acarmonabelmonte/Examen_DWEC_Marzo#readme",
+  "devDependencies": {
+    "css-loader": "^2.1.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.11",
+    "popper.js": "^1.14.7"
+  }
+}

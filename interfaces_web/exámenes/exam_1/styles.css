@@ -1,0 +1,153 @@
+
+/*Base*/
+body {
+	background-color: #EDF6F3;
+	font-family: "Times New Roman";
+	font-size: 15px;
+	color: #5a4535;
+}
+
+h1 {
+	font-size: 2.5em;
+	color: #316e66;
+	margin-top: 0;
+}	
+
+h3 {
+	font-size: 1.17em;
+	color: #316e66;
+}
+
+h4 {
+	color: #5a4535;
+	border-top-style: dotted;
+	border-width : 1px;
+}
+
+/*Logo*/
+.header {
+	margin: 0 auto;
+    max-width: 858px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+/*Barra menú*/
+.nav {
+	margin: 0 auto;
+    max-width: 858px;
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #958175;
+}
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+	font-size: 130%;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+}
+
+.nav li a:hover:not(.active) {
+    background-color: #6d6157;
+}
+
+.active {
+    background-color:  #745745;
+    color: #e4e1bd;
+}
+
+/*Header*/
+.imgHeader {
+	margin: 0 auto;
+    max-width: 858px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+/*Contenido header*/
+.headContent {
+	margin: 0 auto;
+    max-width: 858px;
+    padding-bottom: 30px;
+    
+}
+
+.headContent p {
+	font-size: 15px; 
+    color: #5a4535;
+}
+
+/*Main*/
+.main {
+	margin: 0 auto;
+    max-width: 858px;
+    overflow:hidden;
+    padding-bottom: 30px;
+    padding-top: 30px;  
+}
+
+.news p {
+	color: #5a4535;
+}
+
+.left {
+	float: left;
+	width: 565px;
+	margin-left: 10px;
+}
+
+.right {
+	float: right;
+	width: 270px;
+}
+
+.imgs {
+	width: 270px;
+	height: 144px;
+	padding: 12px
+}
+
+.imgs:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+/*Footer*/
+
+.footer { 
+	margin: 0 auto;
+    max-width: 858px;
+	background-color: #594334;
+	padding: 14px;
+}
+
+.social ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.social li {
+    float: right;
+}
+
+.social li a {
+    display: block;
+    padding:8px 8px;
+    text-decoration: none;
+    width: 35px;
+    height: 35px;
+}

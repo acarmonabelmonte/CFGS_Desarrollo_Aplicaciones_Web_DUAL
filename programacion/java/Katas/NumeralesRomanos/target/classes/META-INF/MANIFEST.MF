@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: adrian
+Build-Jdk: 9.0.0.1-redhat
+Created-By: Maven Integration for Eclipse
+

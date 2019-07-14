@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Exercise 01</title>
+
+</head>
+
+<body>
+<h1>Exercise 01</h1>
+<p id="demo"></p>
+
+<script>
+    window.onload = function() {
+        let nomUser = prompt("Introduzca su nombre");
+        if (nomUser != null) {
+            document.getElementById("demo").innerHTML = nomUser;
+            window.status = nomUser.toUpperCase();
+            window.alert(nomUser);
+            document.title = nomUser.toUpperCase();
+        }
+
+    }
+</script>
+
+</body>
+</html> 

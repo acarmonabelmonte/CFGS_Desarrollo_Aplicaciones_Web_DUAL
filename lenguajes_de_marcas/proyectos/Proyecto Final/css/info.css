@@ -1,0 +1,50 @@
+/*barra nav*/
+#navegador {
+	width: 65%;
+	margin: 0 auto;
+}
+
+/*Jumbotron*/
+.jumbotron {
+	background-image: url('../img/info.jpg');
+	background-size: cover;
+	margin: 0 auto;
+	border-radius: 15px;
+	width: 65%;
+	color: white;
+	text-align: center;
+	font-size: 250%;
+	text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+	font-family: Impact, Charcoal, sans-serif
+}
+
+/*Footer*/
+.footer-top {
+    padding: 60px 0;
+    background: #333;
+    text-align: left;
+    color: #aaa;
+}
+
+/*icono cargando*/
+#loading {
+    display: none;
+    text-align: center;
+}
+
+/*anuncio*/
+#anuncioAbajo {
+	display: none;
+}
+
+@media screen and (max-width: 1200px) {
+	#anuncio{
+	display:none;
+	}
+
+	#anuncioAbajo {
+		display: block;
+	}
+
+}
+
